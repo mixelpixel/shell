@@ -1,7 +1,10 @@
-Currently using _gnome-terminal_ on *Ubuntu* 14.04  
+Currently using __gnome-terminal__ on *Ubuntu* 14.04  
+
+https://guides.github.com/features/mastering-markdown/
 
 http://askubuntu.com/questions/38661/how-do-i-run-sh-files  
 `chmod +x /path/to/yourscript.sh`  
+`./<shell_script.sh>`
 
 There is an alternative to the octothorpe for comments:  
 http://stackoverflow.com/questions/18354489/how-to-comment-out-particular-lines-in-a-shell-script  
