@@ -1,0 +1,6 @@
+Currently using gnome-terminal on Ubuntu 14.04  
+an equivalent to PowerShells `ii` is `gnome-open <dir>`  
+e.g. `gnome-open ~` opens the home directory.
+Is there an equivalent to `ii .` to open the current working directory?
+
+How to make a command? Or an alias which invokes a shell script, like the nap.sh script?
