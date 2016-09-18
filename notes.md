@@ -14,4 +14,5 @@ e.g. `gnome-open ~` opens the home directory.
 Also, an equivalent to `ii .` to open the current working directory is `gnome-open .`  
 
 How to make a command? Or an alias which invokes a shell script, like the nap.sh script?  
+http://unix.stackexchange.com/questions/84686/how-to-create-custom-commands-in-unix-linux  
 
