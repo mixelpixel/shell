@@ -1,4 +1,4 @@
-Currently using gnome-terminal on Ubuntu 14.04  
+Currently using *gnome-terminal* on Ubuntu 14.04  
 
 http://askubuntu.com/questions/38661/how-do-i-run-sh-files  
 chmod +x /path/to/yourscript.sh  
